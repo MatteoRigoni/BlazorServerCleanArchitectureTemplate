@@ -17,4 +17,6 @@ The application layer depends on the Domain layer and acts as a bridge between t
 
 The Repositories folder contains interfaces such as IUnitOfWork, IGenericRepository, and other domain-specific interfaces such as IStadiumRepository, etc. These interfaces define methods to read and update data.
 
+About features, each feature folder can contain subfolders such as Queries and Commands which can contain CQRS commands and queries
+
 
