@@ -15,4 +15,6 @@ The domain layer is the core component of clean architecture and it usually incl
 ### Application
 The application layer depends on the Domain layer and acts as a bridge between the Domain layer and external layers such as Persistence or Presentations layer. This layer contains business services, DTOs, Commands, Queries, etc.
 
+The Repositories folder contains interfaces such as IUnitOfWork, IGenericRepository, and other domain-specific interfaces such as IStadiumRepository, etc. These interfaces define methods to read and update data.
+
 
