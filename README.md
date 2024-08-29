@@ -19,4 +19,7 @@ The Repositories folder contains interfaces such as IUnitOfWork, IGenericReposit
 
 About features, each feature folder can contain subfolders such as Queries and Commands which can contain CQRS commands and queries
 
+### Infrastructure
+This layer contains the implementation of the interfaces defined in the Application layer. The project(s) defined in this layer communicate with external systems and technologies, such as databases, APIs, or cloud services. This layer should only interact with the domain layer through the application layer and should not contain any business logic or domain knowledge. The main goal of the infrastructure layer is to encapsulate the technical details of the application so that they can be easily changed or replaced without affecting the rest of the application.
+
 
