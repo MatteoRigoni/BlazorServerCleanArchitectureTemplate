@@ -1,5 +1,8 @@
 # BlazorServerCleanArchitectureTemplate
-Basic template of Blazor Server app in NET 8 following clean architecture principle
+Basic template of Blazor Server app in NET 8 following clean architecture principle, using EF as persistance.
+
+![image](https://github.com/user-attachments/assets/3d584558-4201-4843-aff6-59fdc1b59d4b)
+
 
 List of projects:
 - BlazorServerCleanArchitecture.Application
@@ -21,5 +24,8 @@ About features, each feature folder can contain subfolders such as Queries and C
 
 ### Infrastructure
 This layer contains the implementation of the interfaces defined in the Application layer. The project(s) defined in this layer communicate with external systems and technologies, such as databases, APIs, or cloud services. This layer should only interact with the domain layer through the application layer and should not contain any business logic or domain knowledge. The main goal of the infrastructure layer is to encapsulate the technical details of the application so that they can be easily changed or replaced without affecting the rest of the application.
+
+### Presentation
+The presentation layer is the out most layer of the clean architecture and this is where we decide if we are going to build a Web API, an ASP.NET MVC web application, or a Blazor Server app. The presentation layer should not contain business logic or domain knowledge and should only interact with the rest of the application through the application layer.
 
 
