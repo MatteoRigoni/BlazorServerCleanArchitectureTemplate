@@ -12,4 +12,7 @@ The domain layer is the core component of clean architecture and it usually incl
 
 ![image](https://github.com/user-attachments/assets/e1e3e003-e156-42e4-b5aa-2ac0ed93b078)
 
+### Application
+The application layer depends on the Domain layer and acts as a bridge between the Domain layer and external layers such as Persistence or Presentations layer. This layer contains business services, DTOs, Commands, Queries, etc.
+
 
