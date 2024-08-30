@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\matte\\source\\repos\\BlazorServerCleanArchitecture\\BlazorServerCleanArchitecture.WebUII\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerCleanArchitecture.WebUII.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorServerCleanArchitecture.WebUII.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\matte\\source\\repos\\BlazorServerCleanArchitecture\\BlazorServerCleanArchitecture.WebUII\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\matte\\source\\repos\\BlazorServerCleanArchitecture\\BlazorServerCleanArchitecture.WebUII\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\matte\\source\\repos\\BlazorServerCleanArchitecture\\BlazorServerCleanArchitecture.WebUII\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\matte\\source\\repos\\BlazorServerCleanArchitecture\\BlazorServerCleanArchitecture.WebUII\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorServerCleanArchitecture.WebUII.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorServerCleanArchitecture.WebUII.props",
+      "PackagePath": "build\\BlazorServerCleanArchitecture.WebUII.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorServerCleanArchitecture.WebUII.props",
+      "PackagePath": "buildMultiTargeting\\BlazorServerCleanArchitecture.WebUII.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorServerCleanArchitecture.WebUII.props",
+      "PackagePath": "buildTransitive\\BlazorServerCleanArchitecture.WebUII.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,15 @@
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\BlazorServerCleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\BlazorServerCleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\BlazorServerCleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\BlazorServerCleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\BlazorServerCleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\bin\Debug\net8.0\BlazorServerCleanArchitecture.Application.deps.json
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\bin\Debug\net8.0\BlazorServerCleanArchitecture.Application.dll
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\bin\Debug\net8.0\BlazorServerCleanArchitecture.Application.pdb
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\bin\Debug\net8.0\BlazorServerCleanArchitecture.Domain.dll
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\bin\Debug\net8.0\BlazorServerCleanArchitecture.Domain.pdb
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\BlazorServerCleanArchitecture.Application.csproj.CopyComplete
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\BlazorServerCleanArchitecture.Application.dll
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\refint\BlazorServerCleanArchitecture.Application.dll
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\BlazorServerCleanArchitecture.Application.pdb
+C:\Users\matte\source\repos\BlazorServerCleanArchitecture\BlazorServerCleanArchitecture.Application\obj\Debug\net8.0\ref\BlazorServerCleanArchitecture.Application.dll
